@@ -1,0 +1,17 @@
+div {  
+    font-family: 'Inter';
+    font-size: 20px;
+    padding-right: 30px;
+    padding-bottom: 15px;
+    padding-left: 50px;
+    }
+    p {
+    font-size: 20px;
+    font-family: 'Inter';
+    }
+    .line {
+        padding-bottom: 1px;
+        border-bottom-style: solid;
+        border-bottom-width: 5px;
+        width: fit-content;
+    }
